@@ -6,3 +6,5 @@ The app is created and built using Java in Android Studio. It will run on all An
 
 # ⛓️‍💥UI
 The user interface is simple and easy to use. When the app starts, it opens up a screen which has a keyboard and an empty list where you can add your tasks easily. The tasks can be deleted once done by long pressing on the list item.
+![image](https://github.com/user-attachments/assets/97d93b17-e3e5-448d-9d7d-110d8ce57374)
+
